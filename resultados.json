@@ -1,5 +1,5 @@
 [
-    {
+    { 
         "test_evaluation": {
             "test_loss": 0.06179587543010712,
             "test_accuracy": 0.9824561476707458,
