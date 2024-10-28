@@ -1,4 +1,4 @@
-# Detecção de Câncer de Mama com Redes Neurais Artificiais
+# Utilização de Machine Learning para detecção de Câncer de Mama
 
 ## Descrição do Projeto
 
