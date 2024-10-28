@@ -2,7 +2,7 @@
 
 ## Descrição do Projeto
 
-Este projeto apresenta uma rede neural artificial desenvolvida para auxiliar na detecção de câncer de mama, utilizando um conjunto de dados previamente organizado e convertido em variáveis numéricas. A rede neural foi treinada e testada para identificar padrões que indicam a presença de células cancerígenas em exames de mama, fornecendo um suporte adicional para diagnósticos médicos.
+Este projeto apresenta uma rede neural artificial (RNA) desenvolvida para auxiliar na detecção de câncer de mama, utilizando um conjunto de dados previamente organizado e convertido em variáveis numéricas. A rede neural foi treinada e testada para identificar padrões que indicam a presença de células cancerígenas em exames de mama, fornecendo um suporte adicional para diagnósticos médicos.
 
 ## Objetivo
 
@@ -10,39 +10,29 @@ O objetivo principal deste trabalho é desenvolver um modelo de aprendizado de m
 
 ## Metodologia
 
-1. **Coleta de Dados**: Utilização de um banco de dados com variáveis numéricas relacionadas a exames de câncer de mama.
+1. **Coleta de Dados**: Utilização de um banco de dados com variáveis numéricas já pronto para uso. **Link**: https://archive.ics.uci.edu/dataset/14/breast+cancer
 2. **Pré-processamento dos Dados**: Conversão das variáveis para o formato adequado e padronização dos dados para entrada na rede neural.
 3. **Desenvolvimento da Rede Neural**: Construção e configuração de uma rede neural artificial usando Python, com foco em otimização e precisão nas previsões.
-4. **Treinamento e Teste**: O modelo foi treinado em uma parte do conjunto de dados e testado em outra para garantir sua eficiência.
+4. **Treinamento e Teste**: O modelo foi treinado em uma parte do conjunto de dados e testado com todos os dados para melhor eficiência do modelo preditivo. 
 5. **Avaliação do Modelo**: Análise dos resultados para verificar a precisão, a sensibilidade e a especificidade do modelo.
+
 
 ## Requisitos
 
+- Visual Studio Code ou qualquer outra plataforma compatível com Python.
 - Python 3
 - Bibliotecas: TensorFlow, NumPy, Pandas, Matplotlib, entre outros.
 
 ## Como Executar o Projeto
 
-1. Clone o repositório:
+1. Para clonar o repositório, basta utilizar o caminho abaixo pelo terminal do GIT:
    ```bash
-   git clone https://github.com/seu-usuario/
+   git clone https://github.com/L1nco/Neural_Breast
    ```
-2. Navegue até o diretório do projeto:
-   ```bash
-   cd seu-repositorio
-   ```
-3. Instale as dependências:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Execute o script de treinamento:
-   ```bash
-   python train_model.py
-   ```
-5. Para testar o modelo, use:
-   ```bash
-   python test_model.py
-   ```
+
+2. Após clonar o repositório, você terá todos os dados para execução da Rede Neural, somente seria necessário alterar o caminho do banco de dados utilizado, marcado no campo: path_3 = r'Local para seu o caminho do Banco de Dados'.
+
+3. Com isso, estaria pronto para ser executado e testado da maneira que desejar. 
 
 ## Autores
 
@@ -54,6 +44,7 @@ O objetivo principal deste trabalho é desenvolver um modelo de aprendizado de m
 - Érico Torierri
 - Bruno Conti Marini
 
-## Licença
+## Esse projeto foi desenvolvido como Trabalho de Conclusão de Curso. 
+
 
 
