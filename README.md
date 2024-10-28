@@ -30,9 +30,7 @@ O objetivo principal deste trabalho é desenvolver um modelo de aprendizado de m
    git clone https://github.com/L1nco/Neural_Breast
    ```
 
-2. Após clonar o repositório, você terá todos os dados para execução da Rede Neural, somente seria necessário alterar o caminho do banco de dados utilizado, marcado no campo: **path_3 = r' Local para seu o caminho do Banco de Dados '.**
-
-3. Com isso, estaria pronto para ser executado e testado da maneira que desejar. 
+2. Após clonar o repositório, você terá todos os dados para execução da Rede Neural.
 
 ## Autores
 
