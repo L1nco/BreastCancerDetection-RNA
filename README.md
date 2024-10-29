@@ -47,7 +47,7 @@ O objetivo principal deste trabalho é desenvolver um modelo de aprendizado de m
 Victor Crepaldi Gomes: 
 
 **Linkedin: https://www.linkedin.com/in/victor-gomes-b067a3266/**
-**GitHub: https://github.com/VictorCrepaldiGomes**
+                 **GitHub: https://github.com/VictorCrepaldiGomes**
 
 Enrico Sosai Gomes: 
 
