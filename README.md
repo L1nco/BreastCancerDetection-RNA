@@ -34,13 +34,25 @@ O objetivo principal deste trabalho é desenvolver um modelo de aprendizado de m
 
 ## Autores
 
-- Victor Crepaldi Gomes
+- Victor Crepaldi Gomes 
 - Enrico Sosai Gomes
 
 ## Orientadores
 
 - Érico Torierri
 - Bruno Conti Marini
+
+## Contato dos autores 
+
+Victor Crepaldi Gomes: 
+
+**Linkedin: https://www.linkedin.com/in/victor-gomes-b067a3266/**
+**GitHub: https://github.com/VictorCrepaldiGomes**
+
+Enrico Sosai Gomes: 
+
+**Linkedin:**
+**GitHub:**
 
 ## Esse projeto foi desenvolvido como Trabalho de Conclusão de Curso. 
 
