@@ -10,7 +10,7 @@ O objetivo principal deste trabalho é desenvolver um modelo de aprendizado de m
 
 ## Metodologia
 
-1. **Coleta de Dados**: Utilização de um banco de dados com variáveis numéricas já pronto para uso. **Link**: https://archive.ics.uci.edu/dataset/14/breast+cancer
+1. **Coleta de Dados**: Utilização de um banco de dados com variáveis numéricas já pronto para uso. **Link**: https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic
 2. **Pré-processamento dos Dados**: Conversão das variáveis para o formato adequado e padronização dos dados para entrada na rede neural.
 3. **Desenvolvimento da Rede Neural**: Construção e configuração de uma rede neural artificial usando Python, com foco em otimização e precisão nas previsões.
 4. **Treinamento e Teste**: O modelo foi treinado em uma parte do conjunto de dados e testado com todos os dados para melhor eficiência do modelo preditivo. 
