@@ -56,7 +56,7 @@ Enrico Sosai Gomes:
 
 ## Esse projeto foi desenvolvido como Trabalho de Conclusão de Curso. 
 
-**Link para o Artigo Científico:**
+**Link para o Artigo Científico**: https://docs.google.com/document/d/1UAQ_MSy9z1wl4rC17QSYRVy02r3z4vol/edit?sharingaction=ownershiptransfer
 
 
 
