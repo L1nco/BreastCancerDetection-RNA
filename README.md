@@ -56,5 +56,7 @@ Enrico Sosai Gomes:
 
 ## Esse projeto foi desenvolvido como Trabalho de Conclusão de Curso. 
 
+**Link para o Artigo Científico:**
+
 
 
